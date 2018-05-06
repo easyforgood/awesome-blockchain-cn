@@ -2,8 +2,6 @@
 
 >  收集优秀的区块链产品
 
-区块链不仅是一种新的技术，也是新的解决问题的思想，这里会关注现在主流领域的代表产品或者项目，观察他们解决的问题
-
 *Please read the contribution [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) before contributing. 请在为本项目贡献信息前仔细阅读 [操作指南](https://github.com/sindresorhus/awesome/blob/master/contributing.md)*
 
 欢迎到Issues提交区块链相关项目，我们会第一时间处理。
@@ -11,16 +9,10 @@
 项目名称：XXXXX
 相关介绍: XXXXXX
 
-## CONTENTS
-
-- [INTRO 介绍](#intro-%E4%BB%8B%E7%BB%8D)
-- [TUTORIAL 教程](#tutorial-%E6%95%99%E7%A8%8B)
-- [PROJECT 项目](#project-%E9%A1%B9%E7%9B%AE)
-- [DOCUMENT 资料](#document-%E8%B5%84%E6%96%99)
-- [APPLICATION 应用](#application-%E5%BA%94%E7%94%A8)
 
 
-## APPLICATION 应用 
+区块链不仅是一种新的技术，也是新的解决问题的思想，这里会关注现在主流领域的代表产品或者项目，观察他们试图解决问题、创造的价值。
+
 
 ### Explorer 链浏览
 
